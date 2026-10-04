@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenone\\Documents\\asdad\\exaprogramac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A90CB4-BE16-41A5-916D-57EBBED835F7}|exaprogramac.csproj|c:\\users\\lenone\\documents\\asdad\\exaprogramac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A90CB4-BE16-41A5-916D-57EBBED835F7}|exaprogramac.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A90CB4-BE16-41A5-916D-57EBBED835F7}|exaprogramac.csproj|c:\\users\\lenone\\documents\\asdad\\exaprogramac\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A90CB4-BE16-41A5-916D-57EBBED835F7}|exaprogramac.csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A90CB4-BE16-41A5-916D-57EBBED835F7}|exaprogramac.csproj|c:\\users\\lenone\\documents\\asdad\\exaprogramac\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A90CB4-BE16-41A5-916D-57EBBED835F7}|exaprogramac.csproj|solutionrelative:salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Lenone\\Documents\\asdad\\exaprogramac\\alumno.cs",
+              "RelativeDocumentMoniker": "alumno.cs",
+              "ToolTip": "C:\\Users\\Lenone\\Documents\\asdad\\exaprogramac\\alumno.cs",
+              "RelativeToolTip": "alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:58:08.663Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "salon.cs",
+              "DocumentMoniker": "C:\\Users\\Lenone\\Documents\\asdad\\exaprogramac\\salon.cs",
+              "RelativeDocumentMoniker": "salon.cs",
+              "ToolTip": "C:\\Users\\Lenone\\Documents\\asdad\\exaprogramac\\salon.cs",
+              "RelativeToolTip": "salon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:58:15.381Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenone\\Documents\\asdad\\exaprogramac\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenone\\Documents\\asdad\\exaprogramac\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:28:40.152Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Lenone\Documents\asdad\exaprogramac\bin\Debug\exaprogramac.exe.config
+C:\Users\Lenone\Documents\asdad\exaprogramac\bin\Debug\exaprogramac.exe
+C:\Users\Lenone\Documents\asdad\exaprogramac\bin\Debug\exaprogramac.pdb
+C:\Users\Lenone\Documents\asdad\exaprogramac\obj\Debug\exaprogramac.csproj.AssemblyReference.cache
+C:\Users\Lenone\Documents\asdad\exaprogramac\obj\Debug\exaprogramac.csproj.CoreCompileInputs.cache
+C:\Users\Lenone\Documents\asdad\exaprogramac\obj\Debug\exaprogramac.exe
+C:\Users\Lenone\Documents\asdad\exaprogramac\obj\Debug\exaprogramac.pdb
